@@ -2,7 +2,7 @@
 
 C++ engineer based in Catalonia. I spent nine years building performance-critical, real-time
 software at a high-frequency trading firm: numerical models, Qt visualization and analysis tools,
-simulation and replay testing, and build-time optimization (cut full builds from ~30 to ~10 minutes).
+simulation and replay testing, and build-time optimization.
 
 Background in mathematics and engineering physics (UPC/CFIS), robotics research at MIT's MCube Lab,
 and currently a master's in game programming (DirectX 11 / OpenGL rendering, engines, physics).
